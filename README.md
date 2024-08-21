@@ -4,11 +4,9 @@
 
 I love 💖 'technically interesting' shaders.
 
-> See my [Twitter/X](https://x.com/TheMirzaBeig/) for more.
-
----
-
-You can also follow along on my [LinkedIn](https://www.linkedin.com/in/mirzabeig/).
+> See my [Twitter/X](https://x.com/TheMirzaBeig/) for more!
+>
+> You can also follow along on [LinkedIn](https://www.linkedin.com/in/mirzabeig/).
 
 ---
 
