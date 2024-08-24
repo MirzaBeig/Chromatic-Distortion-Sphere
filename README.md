@@ -1,6 +1,6 @@
 # Chromatic Distortion Sphere
 
-✨ A chromatic distortion sphere shader for Unity.
+✨ A chromatic distortion sphere shader for Unity 2022.3 (URP).
 
 I love 💖 'technically interesting' shaders.
 
