@@ -10,7 +10,7 @@ I love 💖 'technically interesting' shaders.
 
 ---
 
-🔗 Here is the [ORIGINAL POST](https://x.com/TheMirzaBeig/status/1825854303635898540) on Twitter/X.
+🔗 Here is the [ORIGINAL POST](https://x.com/TheMirzaBeig/status/1825854303635898540) on Twitter/X, and the [RELEASE POST](https://x.com/TheMirzaBeig/status/1827280942852907023).
 
 📺 You can watch the [FULL VIDEO TUTORIAL](https://youtu.be/0Cr6RnuNtuo) on YouTube, too.
 
