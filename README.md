@@ -1,4 +1,4 @@
-# Chromatic Distortion Sphere + Rim Glow
+# Chromatic Bubble Shield (Distortion Sphere)
 
 ✨ A chromatic distortion sphere shader for Unity 2022.3 (URP).
 
