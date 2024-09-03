@@ -20,8 +20,9 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Bubble
-  m_Shader: {fileID: 4800000, guid: f6df60a687fe8e24e960602a89c813ca, type: 3}
+  m_Name: Bubble Post-Processing 2
+  m_Shader: {fileID: -6465566751694194690, guid: cfb55c84d1936cd4289e3eaca7b00e2d,
+    type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -102,29 +103,45 @@ Material:
     - _BumpScale: 1
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
+    - _Colour_Power: 1
+    - _Colour_Power_Remap_Max: 0.2
+    - _Colour_Power_Remap_Min: 0
     - _Cull: 2
     - _Cutoff: 0.5
+    - _DepthFade: 0.02
+    - _DepthHighlightPower: 10
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _DstBlendAlpha: 0
     - _EnvironmentReflections: 1
-    - _Float0: 1
+    - _Falloff: 1
+    - _Float0: 10
+    - _Fresnel2Power: 10
+    - _Fresnel2RemapMax: 0.15
+    - _Fresnel2RemapMin: 0.15
     - _FresnelPower: 3
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
+    - _IntersectionHighlightPower: 10
     - _Metallic: 0
     - _NoiseFresnelNormalBlend: 1
-    - _NoiseNormalBlend: 0.1
+    - _NoiseNormalBlend: 0.05
     - _NoiseNormalScale: 1
     - _NoiseScale: 4
+    - _NoiseVertexOffset: 0.01
     - _OcclusionStrength: 1
     - _Parallax: 0.005
     - _PosterizeUVs: 3.93
+    - _Power: 9999
+    - _QuantizeSceneUVs: 64
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _RGBSplit: 0.004
+    - _RGBSplit: 0.04
+    - _RGBSplitSteps: 16
+    - _Radius: 0.5
+    - _Radius_Scale: 1
     - _ReceiveShadows: 1
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
@@ -138,13 +155,30 @@ Material:
     - _TessMin: 10
     - _TessPhongStrength: 0.5
     - _TessValue: 8
+    - _Thickness: 0.025
+    - _VerticalHighlight: 10
+    - _VerticalHighlightPower: 8
+    - _VerticalNoiseMaskPower: 0.65
+    - _VerticalNoisePower: 0.8
+    - _VerticalNoiseScale: 10
+    - _VerticalNoiseTwist: 4
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _Colour: {r: 1, g: 0, b: 0, a: 0.6509804}
+    - _Colour_2: {r: 0, g: 0.31372547, b: 1, a: 1}
+    - _DepthHighlightColour: {r: 5.686643, g: 2.548525, b: 1.91343, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _FresnelColour: {r: 0.87635213, g: 2.418255, b: 0, a: 1}
+    - _Fresnel2Colour: {r: 5.686643, g: 2.548525, b: 1.91343, a: 1}
+    - _FresnelColour: {r: 0, g: 1.3271092, b: 3.9999995, a: 1}
     - _NoiseAnimation: {r: 0, g: 1, b: 0, a: 0}
+    - _Position: {r: -0.132, g: 0, b: 0.014, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
+    - _Tiling: {r: 1, g: 1, b: 1, a: 0}
+    - _Vector0: {r: 1, g: 1, b: 0, a: 0}
+    - _VerticalHighlightColour: {r: 4, g: 0.1254902, b: 0, a: 1}
+    - _VerticalNoiseAnimation: {r: 0, g: 5, b: 2, a: 0}
+    - _VerticalNoiseColour: {r: 16, g: 3.367514, b: 1.2578583, a: 0}
   m_BuildTextureStacks: []

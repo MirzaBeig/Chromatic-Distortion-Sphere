@@ -20,8 +20,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Bubble
-  m_Shader: {fileID: 4800000, guid: f6df60a687fe8e24e960602a89c813ca, type: 3}
+  m_Name: Bubble 2 (Tutorial)
+  m_Shader: {fileID: 4800000, guid: 326587b9d54716149a4c9f90fee01c92, type: 3}
   m_Parent: {fileID: 0}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
@@ -104,27 +104,40 @@ Material:
     - _ClearCoatSmoothness: 0
     - _Cull: 2
     - _Cutoff: 0.5
+    - _DepthHighlightDistance: 0.02
+    - _DepthHighlightRemapMax: 0.269
+    - _DepthHighlightRemapMin: 0.249
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
     - _DstBlendAlpha: 0
     - _EnvironmentReflections: 1
-    - _Float0: 1
+    - _Float0: -0.19
+    - _Fresnel2Power: 2
+    - _Fresnel2RemapMax: 0.612
+    - _Fresnel2RemapMin: 0.612
     - _FresnelPower: 3
     - _GlossMapScale: 0
     - _Glossiness: 0
     - _GlossyReflections: 0
+    - _GridColourPower: 0.32
+    - _GridColourRemapMax: 0.818
+    - _GridColourRemapMin: 0.581
+    - _GridScale: 20
+    - _GridThickness: 0.05
     - _Metallic: 0
     - _NoiseFresnelNormalBlend: 1
-    - _NoiseNormalBlend: 0.1
+    - _NoiseNormalBlend: 0.05
     - _NoiseNormalScale: 1
     - _NoiseScale: 4
+    - _NoiseTwist: 1
     - _OcclusionStrength: 1
     - _Parallax: 0.005
     - _PosterizeUVs: 3.93
     - _QueueControl: 0
     - _QueueOffset: 0
-    - _RGBSplit: 0.004
+    - _RGBSplit: 0.02
+    - _RGBSplitSteps: 8
     - _ReceiveShadows: 1
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
@@ -138,13 +151,22 @@ Material:
     - _TessMin: 10
     - _TessPhongStrength: 0.5
     - _TessValue: 8
+    - _VerticalGradientPower: 2
+    - _VerticalGradientRemapMax: 0.101
+    - _VerticalGradientRemapMin: 0
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _DepthHighlightColour: {r: 0, g: 3.542194, b: 6.964404, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
-    - _FresnelColour: {r: 0.87635213, g: 2.418255, b: 0, a: 1}
-    - _NoiseAnimation: {r: 0, g: 1, b: 0, a: 0}
+    - _Fresnel2Colour: {r: 9.189588, g: 1.8488173, b: 0, a: 1}
+    - _FresnelColour: {r: 0, g: 1.3271092, b: 3.9999995, a: 1}
+    - _GridColour: {r: 7.4642644, g: 0.82051617, b: 0, a: 1}
+    - _GridColour2: {r: 0, g: 19.69831, b: 0.060865905, a: 0}
+    - _NoiseAnimation: {r: 0, g: 2, b: 0, a: 0}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
+    - _VerticalGradientColour: {r: 3.732132, g: 0.29052398, b: 0, a: 1}
+    - _VerticalGradientColour2: {r: 1, g: 1, b: 1, a: 0}
   m_BuildTextureStacks: []
