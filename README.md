@@ -12,6 +12,10 @@ I love 💖 'technically interesting' shaders.
 
 ---
 
+https://github.com/user-attachments/assets/77dedd07-c45e-470e-b5f1-e809ad43f2dc
+
+---
+
 🔗 Here is the [ORIGINAL POST](https://x.com/TheMirzaBeig/status/1825854303635898540) on Twitter/X, and the [RELEASE POST](https://x.com/TheMirzaBeig/status/1827280942852907023).
 
 👨‍🏫 You can watch the tutorials on YouTube:
@@ -23,8 +27,6 @@ I love 💖 'technically interesting' shaders.
 - 📺 [PART 3 (Chromatic Bubble/Gel)](https://youtu.be/N2szL01b1qo)
 
 ---
-
-https://github.com/user-attachments/assets/77dedd07-c45e-470e-b5f1-e809ad43f2dc
 
 https://github.com/user-attachments/assets/16e781b6-4b9e-407e-b660-e06185bc62fd
 
